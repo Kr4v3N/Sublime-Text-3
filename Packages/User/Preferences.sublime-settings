@@ -1,0 +1,55 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"detect_slow_plugins": true,
+	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"._*"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"AlignTab",
+		"CSS",
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"status_bar_brighter": true,
+	"theme": "Afterglow-orange.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
