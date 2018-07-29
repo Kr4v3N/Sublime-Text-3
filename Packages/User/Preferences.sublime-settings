@@ -1,7 +1,8 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
 	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
 	"file_exclude_patterns":
@@ -47,7 +48,11 @@
 	],
 	"save_on_focus_lost": true,
 	"show_encoding": true,
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_14": true,
 	"status_bar_brighter": true,
+	"tabs_label_not_italic": true,
+	"tabs_medium": true,
 	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
