@@ -2,7 +2,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
 	"file_exclude_patterns":
@@ -37,7 +37,7 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 13,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
