@@ -1,4 +1,5 @@
 {
+	"atomic_save": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_inactive_tabs": true,
@@ -37,7 +38,7 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 15,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -52,7 +53,7 @@
 	"sidebar_size_14": true,
 	"status_bar_brighter": true,
 	"tabs_label_not_italic": true,
-	"tabs_medium": true,
+	"tabs_small": true,
 	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,

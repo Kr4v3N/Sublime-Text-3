@@ -1,0 +1,4 @@
+{
+    // Run Autoprefixer on file save
+    "prefixOnSave": true,
+}
