@@ -1,5 +1,5 @@
-Sublime Text 3 Settings
-=======================
+Sublime Text 3 Settings for Windows
+===================================
 
 Backup of my own Sublime Text 3 settings.  
 This repo allows you to quickly install a fully configured Sublime Text 3 with:
