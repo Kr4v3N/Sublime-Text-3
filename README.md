@@ -23,20 +23,4 @@ Pour Windows
     git fetch
     git checkout -t origin/master
 
-Pour Linux
-----------
 
-    cd ~/.config/sublime-text-3
-    git init
-    git remote add origin git@github.com:Kr4v3N/Sublime-Text-3.git
-    git fetch
-    git checkout -t origin/master
-
-Pour OS X
----------
-
-    cd ~/Library/Application Support/Sublime Text 3
-    git init
-    git remote add origin git@github.com:Kr4v3N/Sublime-Text-3.git
-    git fetch
-    git checkout -t origin/master
